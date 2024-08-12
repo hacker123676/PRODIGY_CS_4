@@ -29,10 +29,13 @@ This is a basic keylogger implemented in Python using the `pynput` library. The 
 ## Usage
 
 1.Run the Keylogger:
+
 python keylogger.py
 
 2.Stop the Keylogger:
+
 Press the Esc key to stop the keylogger.
 
-Ethical Considerations
+## Ethical Considerations
+
 This keylogger is intended for educational purposes only. Ensure you have explicit permission to use this script on any system. Misuse of keylogging software can be illegal and unethical.
