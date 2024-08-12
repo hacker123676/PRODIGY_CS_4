@@ -23,6 +23,7 @@ This is a basic keylogger implemented in Python using the `pynput` library. The 
    cd PRODIGY_CS_4
    
 2.Install Dependencies:
+
    pip install pynput
 
 ## Usage
