@@ -19,7 +19,7 @@ This is a basic keylogger implemented in Python using the `pynput` library. The 
 1.Clone the Repository:
 ``` bash
    git clone https://github.com/hacker123676/PRODIGY_CS_4.git
-   
+``` bash
    cd PRODIGY_CS_4
    
 2.Install Dependencies:
